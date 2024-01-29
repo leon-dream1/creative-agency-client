@@ -1,0 +1,28 @@
+.navbar-brand img{
+    width: 50%;
+    height: 50%;
+}
+
+.navbar-nav .nav-item .nav-link{
+    margin-right: 40px;
+    color: #474747;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.login{
+    border-radius: 5px;
+    background: #111430;
+    padding: 10px 40px;
+    color: #FFFFFF;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+
+/* @media screen and (max-width: 575px) {
+    .navbar-nav  .nav-item .nav-link{
+        font-size: 3rem;
+    }
+} */
