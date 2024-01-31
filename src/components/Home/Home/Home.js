@@ -1,13 +1,15 @@
 import React from "react";
 
 import "./Home.css";
-import Navbar from "../Navbar/Navbar";
+
+import SocialBrand from "../SocialBrand/SocialBrand";
+import Header from "../Header/Header";
 
 const Home = () => {
   return (
-    <div className="">
-        <Navbar/>
-      
+    <div className="home">
+      <Header />
+      <SocialBrand />
     </div>
   );
 };
