@@ -1,0 +1,23 @@
+
+.main-content{
+    padding: 20px 30px;
+    transition: .5s;
+    height: 450px;
+    border-radius: 16px;
+}
+.main-content:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.main-content h2{
+  color: #111430;
+  font-size: 20px;
+  font-weight: 600;
+  margin: 20px 0;
+}
+.main-content p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #000000;
+    line-height: 32px;
+}
